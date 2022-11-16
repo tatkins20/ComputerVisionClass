@@ -1,0 +1,21 @@
+Project 3:
+
+Project 3A: Sobel and Hough 
+- sobel:  30/30
+- hough 35/70
+- score: 65/100 - hough lines incorrectly implemented.  You didn't test your code very thoroughly and there are *no* comments I can look at to understand where your code may be going wrong.  
+
+Notes
+
+Project 3B: Canny
+- gaussian blur 10/10
+- gradient 10/10  - appears correct
+- non-max 15/30 - does not appear correct, and all of a sudden you have color images?
+- threshold 5/10 - it's not clear how you came up with these thresholds
+- edge tracking: 15/30 - it's not clear how you tested this
+- results and testing: 5/10
+
+Total: 60/100
+
+Notes: You didn't do a very thorough job of testing your code across multiple images, and don't have any before/after presentations to show how, if at all, any of your functions work.  No documentation in code makes it impossible to debug.
+- 

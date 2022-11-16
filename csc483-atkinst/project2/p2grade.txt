@@ -1,0 +1,20 @@
+Project 2:
+
+Part 1: my_imfilter 
+- Identity Filter
+- small blur
+x large blur - does not work
+- sobel
+- high pass
+- score: 50/70
+Notes: as you note, code does not work for large filters.  
+
+Part 2: Hybrid Image
+- create_hybrid_image 
+- testing/results
+- score: 0/30 - not implemented
+
+Total: 50/100
+
+Notes: disappointing, please revise for portfolio
+- 

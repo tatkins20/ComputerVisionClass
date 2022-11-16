@@ -1,0 +1,10 @@
+Project 4:
+
+
+Harris Corner: 40/40
+Suppression:  35/40 - doesn't seem to work for notre dame
+Testing: 10/20
+
+Total: 85/100
+
+Notes: post-suppression interest points on ND are displayed weird.  No explanation of why in your writeup
